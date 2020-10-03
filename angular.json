@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularaulas"
+    }
+  },
+  "defaultProject": "angularaulas",
+  "cli": {
+    "analytics": "f912b5b4-c539-48eb-94d0-f5756ae2554e"
+  }
 }
